@@ -1,3 +1,5 @@
 Limpar tela <stdlib>
   Linux:   system("clear");
   Windows: system("cls");
+copiar string
+  strcpy(string_dest, string_2);
