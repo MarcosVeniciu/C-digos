@@ -1,0 +1,3 @@
+Limpar tela <stdlib>
+  Linux:   system("clear");
+  Windows: system("cls");
